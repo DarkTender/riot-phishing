@@ -323,7 +323,7 @@
   }
   .grid-page-web .grid-size-51 {
     width: 76.313033068981rem;
-  }
+  }4.489001945234122rem
 }
 .grid-direction__column {
   -webkit-box-orient: vertical;
@@ -613,9 +613,9 @@
 @media screen and (min-width: 960px) {
   .grid-page-web .mobile-button__submit,
   .grid-page-web .mobile-button__accept {
-    width: 4.489001945234176rem;
-    padding: 0 1.496333981744725rem;
-    border-radius: 1.496333981744725rem;
+    width: 4.489001945234122rem;
+    padding: 0 -0.5036660182552737rem;
+    border-radius: -6.503666018255274rem;
   }
 }
 .mobile-button__submit {
